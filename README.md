@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @noobie-sys
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on anything
-- 📫 Say hii to my social media platform
-- _.noobie__(instagram) | noobie2103(x.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love coffee, The way you do..
+-👋 Greetings, I am @noobie-sys.
+
+-👀 I possess a keen interest in the realm of web development.
+-🌱 Currently engaged in the study of Typescript to enhance my skill set.
+-💞️ Open to collaboration on diverse projects.
+-📫 Feel free to connect with me on my social media platforms: .noobie_ (Instagram) | noobie2103 (x.com).
+-😄 Pronouns: he/him.
+-⚡ Fun fact: I share an affinity for coffee, much like yourself.
+
+- Certainly, if you find my insights valuable, feel free to consider following me for more updates and information
 
 <!---
 noobie-sys/noobie-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
